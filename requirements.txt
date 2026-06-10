@@ -1,4 +1,3 @@
 aiogram
-redis
 asyncpg
 aiohttp
